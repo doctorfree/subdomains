@@ -7,6 +7,8 @@ sites:
     url: https://asciigames.neoman.dev
   - name: astronvim.lazyman.dev
     url: https://astronvim.lazyman.dev
+  - name: candyvim.lazyman.dev
+    url: https://candyvim.lazyman.dev
   - name: ide.lazyman.dev
     url: https://ide.lazyman.dev
   - name: lazyvim.lazyman.dev
