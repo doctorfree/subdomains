@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/asciigames.neoman.dev.ico",
     "slug": "asciigames-neoman-dev",
     "status": "down",
-    "uptime": "92.27%",
+    "uptime": "90.51%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "55.48%",
-    "uptimeMonth": "89.75%",
-    "uptimeYear": "92.27%",
+    "uptimeWeek": "44.29%",
+    "uptimeMonth": "87.18%",
+    "uptimeYear": "90.51%",
     "time": 186,
     "timeDay": 0,
     "timeWeek": 174,
     "timeMonth": 193,
     "timeYear": 186,
     "dailyMinutesDown": {
-      "2023-10-06": 38,
+      "2023-10-06": 1166,
       "2023-10-05": 1440,
       "2023-10-04": 1440,
       "2023-10-03": 1440,
@@ -190,10 +190,10 @@
     "url": "https://blog.ronrecord.com",
     "icon": "https://icons.duckduckgo.com/ip3/blog.ronrecord.com.ico",
     "slug": "blog-ronrecord-com",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 329,
@@ -201,7 +201,9 @@
     "timeWeek": 371,
     "timeMonth": 339,
     "timeYear": 329,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-10-06": 1
+    }
   },
   {
     "name": "themes.ronrecord.com",
@@ -226,9 +228,9 @@
     "url": "https://uptime.ronrecord.com",
     "icon": "https://raw.githubusercontent.com/doctorfree/subdomains/master/assets/dummy.ico",
     "slug": "uptime-ronrecord-com",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -237,6 +239,8 @@
     "timeWeek": 283,
     "timeMonth": 290,
     "timeYear": 290,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-10-06": 0
+    }
   }
 ]
