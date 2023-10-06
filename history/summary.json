@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/asciigames.neoman.dev.ico",
     "slug": "asciigames-neoman-dev",
     "status": "down",
-    "uptime": "90.50%",
+    "uptime": "90.49%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "44.22%",
-    "uptimeMonth": "87.16%",
-    "uptimeYear": "90.50%",
+    "uptimeWeek": "44.16%",
+    "uptimeMonth": "87.15%",
+    "uptimeYear": "90.49%",
     "time": 186,
     "timeDay": 0,
     "timeWeek": 174,
     "timeMonth": 193,
     "timeYear": 186,
     "dailyMinutesDown": {
-      "2023-10-06": 1173,
+      "2023-10-06": 1179,
       "2023-10-05": 1440,
       "2023-10-04": 1440,
       "2023-10-03": 1440,
@@ -172,19 +172,19 @@
     "url": "https://fractals.ronrecord.com",
     "icon": "https://icons.duckduckgo.com/ip3/fractals.ronrecord.com.ico",
     "slug": "fractals-ronrecord-com",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 200,
-    "timeDay": 165,
-    "timeWeek": 220,
-    "timeMonth": 203,
-    "timeYear": 200,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.58%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
+    "time": 198,
+    "timeDay": 148,
+    "timeWeek": 209,
+    "timeMonth": 200,
+    "timeYear": 198,
     "dailyMinutesDown": {
-      "2023-10-06": 0
+      "2023-10-06": 6
     }
   },
   {
@@ -193,19 +193,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/blog.ronrecord.com.ico",
     "slug": "blog-ronrecord-com",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.48%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 323,
     "timeDay": 170,
     "timeWeek": 330,
     "timeMonth": 329,
     "timeYear": 323,
-    "dailyMinutesDown": {
-      "2023-10-06": 7
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "themes.ronrecord.com",
@@ -231,18 +229,16 @@
     "icon": "https://raw.githubusercontent.com/doctorfree/subdomains/master/assets/dummy.ico",
     "slug": "uptime-ronrecord-com",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.52%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 289,
     "timeDay": 242,
     "timeWeek": 280,
     "timeMonth": 289,
     "timeYear": 289,
-    "dailyMinutesDown": {
-      "2023-10-06": 7
-    }
+    "dailyMinutesDown": {}
   }
 ]
