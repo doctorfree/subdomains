@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/asciigames.neoman.dev.ico",
     "slug": "asciigames-neoman-dev",
     "status": "down",
-    "uptime": "68.48%",
+    "uptime": "67.43%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "43.73%",
-    "uptimeYear": "68.48%",
+    "uptimeMonth": "40.96%",
+    "uptimeYear": "67.43%",
     "time": 186,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 213,
     "timeYear": 186,
     "dailyMinutesDown": {
-      "2023-10-20": 39,
+      "2023-10-20": 1252,
       "2023-10-19": 1440,
       "2023-10-18": 1440,
       "2023-10-17": 1440,
@@ -168,9 +168,9 @@
     "url": "https://archive.ronrecord.com",
     "icon": "https://icons.duckduckgo.com/ip3/archive.ronrecord.com.ico",
     "slug": "archive-ronrecord-com",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -179,7 +179,9 @@
     "timeWeek": 281,
     "timeMonth": 295,
     "timeYear": 296,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-10-20": 0
+    }
   },
   {
     "name": "fractals.ronrecord.com",
