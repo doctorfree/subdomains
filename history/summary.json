@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 186,
     "dailyMinutesDown": {
-      "2024-07-09": 674,
+      "2024-07-09": 683,
       "2024-07-08": 1440,
       "2024-07-07": 1440,
       "2024-07-06": 1440,
@@ -431,19 +431,19 @@
     "url": "https://archive.ronrecord.com",
     "icon": "https://icons.duckduckgo.com/ip3/archive.ronrecord.com.ico",
     "slug": "archive-ronrecord-com",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.37%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 309,
-    "timeDay": 434,
-    "timeWeek": 380,
-    "timeMonth": 318,
-    "timeYear": 309,
+    "time": 310,
+    "timeDay": 457,
+    "timeWeek": 392,
+    "timeMonth": 323,
+    "timeYear": 310,
     "dailyMinutesDown": {
-      "2024-07-09": 1
+      "2024-07-09": 9
     }
   },
   {
@@ -451,19 +451,19 @@
     "url": "https://fractals.ronrecord.com",
     "icon": "https://icons.duckduckgo.com/ip3/fractals.ronrecord.com.ico",
     "slug": "fractals-ronrecord-com",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.41%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 223,
-    "timeDay": 418,
-    "timeWeek": 277,
-    "timeMonth": 222,
-    "timeYear": 223,
+    "time": 224,
+    "timeDay": 436,
+    "timeWeek": 299,
+    "timeMonth": 230,
+    "timeYear": 224,
     "dailyMinutesDown": {
-      "2024-07-09": 0
+      "2024-07-09": 9
     }
   },
   {
