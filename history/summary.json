@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 186,
     "dailyMinutesDown": {
-      "2024-07-30": 213,
+      "2024-07-30": 221,
       "2024-07-29": 1440,
       "2024-07-28": 1440,
       "2024-07-27": 1440,
@@ -452,19 +452,19 @@
     "url": "https://archive.ronrecord.com",
     "icon": "https://icons.duckduckgo.com/ip3/archive.ronrecord.com.ico",
     "slug": "archive-ronrecord-com",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.42%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 317,
-    "timeDay": 422,
-    "timeWeek": 441,
-    "timeMonth": 427,
-    "timeYear": 317,
+    "time": 318,
+    "timeDay": 444,
+    "timeWeek": 444,
+    "timeMonth": 428,
+    "timeYear": 318,
     "dailyMinutesDown": {
-      "2024-07-30": 0
+      "2024-07-30": 8
     }
   },
   {
