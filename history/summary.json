@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/asciigames.neoman.dev.ico",
     "slug": "asciigames-neoman-dev",
     "status": "down",
-    "uptime": "8.68%",
+    "uptime": "8.67%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-10-28": 56,
+      "2024-10-28": 884,
       "2024-10-27": 1440,
       "2024-10-26": 1440,
       "2024-10-25": 1440,
@@ -514,9 +514,9 @@
     "url": "https://archive.ronrecord.com",
     "icon": "https://icons.duckduckgo.com/ip3/archive.ronrecord.com.ico",
     "slug": "archive-ronrecord-com",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -526,6 +526,7 @@
     "timeMonth": 466,
     "timeYear": 358,
     "dailyMinutesDown": {
+      "2024-10-28": 0,
       "2024-08-10": 19
     }
   },
@@ -534,9 +535,9 @@
     "url": "https://fractals.ronrecord.com",
     "icon": "https://icons.duckduckgo.com/ip3/fractals.ronrecord.com.ico",
     "slug": "fractals-ronrecord-com",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -545,16 +546,18 @@
     "timeWeek": 250,
     "timeMonth": 364,
     "timeYear": 269,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-10-28": 0
+    }
   },
   {
     "name": "blog.ronrecord.com",
     "url": "https://blog.ronrecord.com",
     "icon": "https://icons.duckduckgo.com/ip3/blog.ronrecord.com.ico",
     "slug": "blog-ronrecord-com",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -563,7 +566,9 @@
     "timeWeek": 353,
     "timeMonth": 502,
     "timeYear": 449,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-10-28": 0
+    }
   },
   {
     "name": "themes.ronrecord.com",
