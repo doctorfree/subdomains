@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-01-29": 348,
+      "2025-01-29": 352,
       "2025-01-28": 1440,
       "2025-01-27": 1440,
       "2025-01-26": 1440,
@@ -388,19 +388,19 @@
     "url": "https://astronvim.lazyman.dev",
     "icon": "https://icons.duckduckgo.com/ip3/astronvim.lazyman.dev.ico",
     "slug": "astronvim-lazyman-dev",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.86%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.55%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 200,
-    "timeDay": 257,
-    "timeWeek": 212,
-    "timeMonth": 212,
+    "timeDay": 215,
+    "timeWeek": 207,
+    "timeMonth": 210,
     "timeYear": 207,
     "dailyMinutesDown": {
-      "2025-01-29": 2
+      "2025-01-29": 6
     }
   },
   {
@@ -408,19 +408,19 @@
     "url": "https://candyvim.lazyman.dev",
     "icon": "https://icons.duckduckgo.com/ip3/candyvim.lazyman.dev.ico",
     "slug": "candyvim-lazyman-dev",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.90%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.59%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 200,
-    "timeDay": 247,
-    "timeWeek": 202,
-    "timeMonth": 209,
+    "time": 199,
+    "timeDay": 214,
+    "timeWeek": 200,
+    "timeMonth": 208,
     "timeYear": 211,
     "dailyMinutesDown": {
-      "2025-01-29": 2
+      "2025-01-29": 6
     }
   },
   {
@@ -428,19 +428,19 @@
     "url": "https://ide.lazyman.dev",
     "icon": "https://icons.duckduckgo.com/ip3/ide.lazyman.dev.ico",
     "slug": "ide-lazyman-dev",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.93%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.62%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 183,
-    "timeDay": 259,
-    "timeWeek": 188,
-    "timeMonth": 184,
-    "timeYear": 191,
+    "timeDay": 269,
+    "timeWeek": 199,
+    "timeMonth": 187,
+    "timeYear": 192,
     "dailyMinutesDown": {
-      "2025-01-29": 1
+      "2025-01-29": 5
     }
   },
   {
@@ -448,19 +448,19 @@
     "url": "https://lazyvim.lazyman.dev",
     "icon": "https://icons.duckduckgo.com/ip3/lazyvim.lazyman.dev.ico",
     "slug": "lazyvim-lazyman-dev",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.66%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 180,
-    "timeDay": 268,
-    "timeWeek": 184,
-    "timeMonth": 199,
+    "timeDay": 205,
+    "timeWeek": 179,
+    "timeMonth": 197,
     "timeYear": 177,
     "dailyMinutesDown": {
-      "2025-01-29": 0
+      "2025-01-29": 5
     }
   },
   {
