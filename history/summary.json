@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-03-18": 56,
+      "2025-03-18": 160,
       "2025-03-17": 1440,
       "2025-03-16": 1440,
       "2025-03-15": 1440,
@@ -555,18 +555,19 @@
     "url": "https://blog.ronrecord.com",
     "icon": "https://icons.duckduckgo.com/ip3/blog.ronrecord.com.ico",
     "slug": "blog-ronrecord-com",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 476,
+    "time": 477,
     "timeDay": 686,
     "timeWeek": 476,
     "timeMonth": 583,
     "timeYear": 491,
     "dailyMinutesDown": {
+      "2025-03-18": 0,
       "2024-11-15": 20
     }
   },
