@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/asciigames.neoman.dev.ico",
     "slug": "asciigames-neoman-dev",
     "status": "down",
-    "uptime": "6.51%",
+    "uptime": "6.50%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-03-20": 56,
+      "2025-03-20": 1031,
       "2025-03-19": 1440,
       "2025-03-18": 1440,
       "2025-03-17": 1440,
@@ -555,9 +555,9 @@
     "url": "https://blog.ronrecord.com",
     "icon": "https://icons.duckduckgo.com/ip3/blog.ronrecord.com.ico",
     "slug": "blog-ronrecord-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "99.62%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.99%",
@@ -567,6 +567,7 @@
     "timeMonth": 569,
     "timeYear": 490,
     "dailyMinutesDown": {
+      "2025-03-20": 0,
       "2025-03-18": 38,
       "2024-11-15": 20
     }
